@@ -1,0 +1,3 @@
+# Project Guessing Clothes
+hallo...
+ini adalah project akhir praktikum mata kuliah Pengolahan Citra Digital, project ini berisi program untuk menebak object pakaian yang ada di dalam suatu image. dataset pada project ini diambil dari kaggle.
